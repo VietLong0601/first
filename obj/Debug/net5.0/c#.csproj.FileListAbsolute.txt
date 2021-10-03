@@ -1,0 +1,16 @@
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.csproj.AssemblyReference.cache
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.AssemblyInfoInputs.cache
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.AssemblyInfo.cs
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.csproj.CoreCompileInputs.cache
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\c#.exe
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\c#.deps.json
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\c#.runtimeconfig.json
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\c#.runtimeconfig.dev.json
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\c#.dll
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\ref\c#.dll
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\bin\Debug\net5.0\c#.pdb
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.dll
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\ref\c#.dll
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.pdb
+d:\OneDrive - NVC\Desktop\year_3rd\OOP\c#\obj\Debug\net5.0\c#.genruntimeconfig.cache
